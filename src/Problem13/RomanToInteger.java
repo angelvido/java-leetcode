@@ -10,29 +10,6 @@ public class RomanToInteger {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /* System.out.println("** TEST CASE 1 **");
-        String s = "III";
-        System.out.println("Input: ");
-        System.out.println(s);
-        System.out.println("Output: ");
-        System.out.println(romanToInt(s));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        s = "LVIII";
-        System.out.println("Input: ");
-        System.out.println(s);
-        System.out.println("Output: ");
-        System.out.println(romanToInt(s));
-        System.out.println();
-
-        System.out.println("** TEST CASE 3 **");
-        s = "MCMXCIV";
-        System.out.println("Input: ");
-        System.out.println(s);
-        System.out.println("Output: ");
-        System.out.println(romanToInt(s));
-        */
         runTests();
     }
 

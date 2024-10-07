@@ -11,34 +11,6 @@ public class TwoSum {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /*
-        System.out.println("** TEST CASE 1 **");
-        int[] nums = new int[]{2, 7, 11, 15};
-        int target = 9;
-        System.out.println("Input:");
-        System.out.println(Arrays.toString(nums) + ", " + target);
-        System.out.println("Output:");
-        System.out.println(Arrays.toString(Arrays.stream(twoSum(nums, target)).toArray()));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        nums = new int[]{3,2,4};
-        target = 6;
-        System.out.println("Input:");
-        System.out.println(Arrays.toString(nums) + ", " + target);
-        System.out.println("Output:");
-        System.out.println(Arrays.toString(Arrays.stream(twoSum(nums, target)).toArray()));
-        System.out.println();
-
-        System.out.println("** TEST CASE 3 **");
-        nums = new int[]{3,3};
-        target = 6;
-        System.out.println("Input:");
-        System.out.println(Arrays.toString(nums) + ", " + target);
-        System.out.println("Output:");
-        System.out.println(Arrays.toString(Arrays.stream(twoSum(nums, target)).toArray()));
-        System.out.println();
-        */
         runTests();
     }
 

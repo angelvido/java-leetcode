@@ -15,14 +15,14 @@ public class ValidParentheses {
 
     public static void runTests() {
         ValidParentheses vp = new ValidParentheses();
-        test(vp.isValid("()"), true, "Input: '()'");
-        test(vp.isValid("()[]{}"), true, "Input: '()[]{}'");
-        test(vp.isValid("(]"), false, "Input: '(]'");
-        test(vp.isValid("([])"), true, "Input: '([])'");
+        test(vp.isValid("()"), true, "()");
+        test(vp.isValid("()[]{}"), true, "()[]{}");
+        test(vp.isValid("(]"), false, "(]");
+        test(vp.isValid("([])"), true, "([])");
     }
 
-    public static void test(boolean result, boolean expected, String testCaseDescription) {
-        System.out.println(testCaseDescription);
+    public static void test(boolean result, boolean expected, String parentheses) {
+        System.out.println("Input: " + parentheses);
         System.out.println("Expected: " + expected);
         System.out.println("Result: " + result);
         if (result == expected) {

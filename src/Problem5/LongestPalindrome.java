@@ -10,23 +10,6 @@ public class LongestPalindrome {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /*
-        System.out.println("** TEST CASE 1 **");
-        String s1 = "babad";
-        System.out.println("Input:");
-        System.out.println(s1);
-        System.out.println("Output:");
-        System.out.println(longestPalindrome(s1));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        String s2 = "cbbd";
-        System.out.println("Input:");
-        System.out.println(s2);
-        System.out.println("Output:");
-        System.out.println(longestPalindrome(s2));
-        System.out.println();
-        */
         runTests();
     }
 

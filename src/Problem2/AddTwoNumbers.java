@@ -10,56 +10,6 @@ public class AddTwoNumbers {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /*
-        System.out.println("** TEST CASE 1 **");
-        ListNode l11 = new ListNode(2);
-        l11.next = new ListNode(4);
-        l11.next.next = new ListNode(3);
-
-        ListNode l21 = new ListNode(5);
-        l21.next = new ListNode(6);
-        l21.next.next = new ListNode(4);
-
-        System.out.println("Input:");
-        printList(l11);
-        printList(l21);
-        System.out.println("Output:");
-        printList(addTwoNumbers(l11, l21));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        ListNode l12 = new ListNode(0);
-
-        ListNode l22 = new ListNode(0);
-
-        System.out.println("Input:");
-        printList(l12);
-        printList(l22);
-        System.out.println("Output:");
-        printList(addTwoNumbers(l12, l22));
-        System.out.println();
-
-        System.out.println("** TEST CASE 3 **");
-        ListNode l13 = new ListNode(9);
-        l13.next = new ListNode(9);
-        l13.next.next = new ListNode(9);
-        l13.next.next.next = new ListNode(9);
-        l13.next.next.next.next = new ListNode(9);
-        l13.next.next.next.next.next = new ListNode(9);
-        l13.next.next.next.next.next.next = new ListNode(9);
-
-        ListNode l23 = new ListNode(9);
-        l23.next = new ListNode(9);
-        l23.next.next = new ListNode(9);
-        l23.next.next.next = new ListNode(9);
-
-        System.out.println("Input:");
-        printList(l13);
-        printList(l23);
-        System.out.println("Output:");
-        printList(addTwoNumbers(l13, l23));
-        System.out.println();
-        */
         runTests();
     }
 

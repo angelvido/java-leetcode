@@ -8,31 +8,6 @@ public class PalindromeNumber {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /*
-        System.out.println("** TEST CASE 1 **");
-        int x = 121;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(isPalindrome(x));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        x = -121;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(isPalindrome(x));
-        System.out.println();
-
-        System.out.println("** TEST CASE 3 **");
-        x = 10;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(isPalindrome(x));
-        System.out.println();
-        */
         runTests();
     }
 

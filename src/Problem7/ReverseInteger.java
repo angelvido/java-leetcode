@@ -8,31 +8,6 @@ public class ReverseInteger {
     public static final String ANSI_RED = "\033[31m";
 
     public static void main(String[] args) {
-        /*
-        System.out.println("** TEST CASE 1 **");
-        int x = 123;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(reverse(x));
-        System.out.println();
-
-        System.out.println("** TEST CASE 2 **");
-        x = -123;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(reverse(x));
-        System.out.println();
-
-        System.out.println("** TEST CASE 3 **");
-        x = 120;
-        System.out.println("Input:");
-        System.out.println(x);
-        System.out.println("Output:");
-        System.out.println(reverse(x));
-        System.out.println();
-        */
         runTests();
     }
 
