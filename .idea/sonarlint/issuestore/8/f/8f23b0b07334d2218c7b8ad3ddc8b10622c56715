@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý­§«8¦Ù—Ç¦2
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(£ÕÇÏúÿÿÿÿ8ðèÃ¦2J$fe77a770-d756-4e87-9359-d124324fc199
+r	java:S1061"+Replace this use of System.out by a logger.(ÙÒøÿÿÿÿ8—æ®Ã¦2J$089a76fe-7c38-40b5-9e5a-2ee1e8b8e9b1
+m	java:S1062"+Replace this use of System.out by a logger.( Ïåü8—æ®Ã¦2J$f0c6c089-35f4-46db-8fdb-409681f967f8
+r	java:S1063"+Replace this use of System.out by a logger.(òþÚúøÿÿÿÿ8˜æ®Ã¦2J$af5c6631-991a-440b-a940-a342d875f033
+m	java:S1065"+Replace this use of System.out by a logger.(¦ñŠÙ8˜æ®Ã¦2J$e4d3e9ab-1fad-44e3-8864-83465287a3bb
+m	java:S1067"+Replace this use of System.out by a logger.(ÓÁÚÅ8˜æ®Ã¦2J$5145bd16-dd2f-49d4-a4e7-3d855c406e7f

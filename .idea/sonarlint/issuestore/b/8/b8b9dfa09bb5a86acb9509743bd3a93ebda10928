@@ -1,0 +1,12 @@
+
+]
+java:S1220""Move this file to a named package.8ïÎöÅ¦2J$3f9d5ccf-d8ef-4594-ae12-4b76aa290747
+˜
+java:S1149""PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8”ÇüÅ¦2J$fb90779e-3993-4f84-a3f3-bb3e0df57ff7
+m	java:S106"+Replace this use of System.out by a logger.(’Òşğ8Ó¼ûÅ¦2J$0182ee69-c5af-4904-aad9-a38f5d3943fd
+m	java:S106"+Replace this use of System.out by a logger.( Ïåü8Ô¼ûÅ¦2J$36693cb9-dad9-4480-9e7f-794a568f3770
+r	java:S106"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ8šÇüÅ¦2J$1e18f0c4-8e11-4538-8d9c-9d0ebb4a41bf
+m	java:S106"+Replace this use of System.out by a logger.(¦ñŠÙ8›ÇüÅ¦2J$1754c8af-d282-4961-a136-b0dd60e9703f
+m	java:S106"+Replace this use of System.out by a logger.(ÓÁÚÅ8›ÇüÅ¦2J$ed3fac6c-63af-4e9b-a735-5e2c3bcf84ca
+•
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ñù£–8œÇüÅ¦2J$12f0b776-c272-4f48-86bd-93d42bbdd1db

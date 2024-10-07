@@ -1,0 +1,11 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ñ‘”8±¬“Ç¦2
+˜
+java:S1149$"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8”ÇüÅ¦2J$4b70e942-2267-41ff-95a3-698b331b02d8
+m	java:S106"+Replace this use of System.out by a logger.(’Òşğ8Ó¼ûÅ¦2J$d98feaad-c809-47fb-a3e4-600156fe62e5
+m	java:S106"+Replace this use of System.out by a logger.( Ïåü8Ô¼ûÅ¦2J$8ad1d055-4bac-4b6c-9672-1a451c2692f2
+r	java:S106"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ8šÇüÅ¦2J$c11368b6-dd78-4aa1-8836-750e86beba27
+m	java:S106"+Replace this use of System.out by a logger.(¦ñŠÙ8›ÇüÅ¦2J$299dee6f-2d61-41ff-970f-45a0a554cdc9
+m	java:S106"+Replace this use of System.out by a logger.(ÓÁÚÅ8›ÇüÅ¦2J$cd1cdd27-1423-4f48-92cc-3616b9089f97
+•
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ñù£–8œÇüÅ¦2J$6c71513a-8c41-4765-bd90-199bf0ec7794

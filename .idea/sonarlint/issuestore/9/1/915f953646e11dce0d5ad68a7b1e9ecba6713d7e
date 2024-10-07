@@ -1,0 +1,11 @@
+
+]
+java:S1220""Move this file to a named package.8ó¶Ã¦2J$ab4139f8-5526-4ee1-b7be-758cad800430
+~	java:S125"<This block of commented-out lines of code should be removed.(»îáä8ùó¶Ã¦2J$7826c2e9-cfa1-4bea-bf99-7ab385d55e14
+r	java:S106+"+Replace this use of System.out by a logger.(ÙÒøÿÿÿÿ8™ÆºÃ¦2J$9f68e6eb-7bdd-4b40-93ea-db4d79661116
+l	java:S106,"+Replace this use of System.out by a logger.(’›Ó%8šÆºÃ¦2J$b487115c-aa3f-4099-8760-3dbd0a4d7879
+r	java:S106-"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ8šÆºÃ¦2J$51a96c5a-b61c-40f7-aec6-150d1d84163b
+m	java:S1061"+Replace this use of System.out by a logger.(¦ñŠÙ8›ÆºÃ¦2J$7463b730-4c4c-4fb0-9e9c-4d6dcd95673e
+m	java:S1063"+Replace this use of System.out by a logger.(ÓÁÚÅ8œÆºÃ¦2J$084799bf-8c29-4734-aa9d-fcc4dc2e942f
+i
+java:S1659:"!Declare "end" on a separate line.(Û‚ÌÎøÿÿÿÿ8÷§·Ã¦2J$88920eb1-f9e6-4759-b388-8df7e787eb9c
