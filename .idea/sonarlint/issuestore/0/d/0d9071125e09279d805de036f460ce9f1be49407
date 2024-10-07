@@ -1,6 +1,0 @@
-
-’
-java:S1104"OMake val a static final constant or non-public and provide accessors if needed.(Ô¸úÏ8µÔŸ¼¦2J$1defc29e-9554-4b98-9cc6-a32a69c69bd7
-“
-java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(ÿ»¡8¬± ¼¦2J$3155e5d3-7c94-462c-a646-d4f339ba8b1a
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ş†åøÿÿÿÿ8¿Ó•¼¦2J$6465a370-fc95-4473-8b5a-28b030a4c8c6
